@@ -1,0 +1,13 @@
+# mengecualikan folder
+klon projek git/
+
+
+
+# mengecualikan folder (satu file)
+log.txt
+
+# mengecualikan file lebih dari satu
+*.html
+
+
+
