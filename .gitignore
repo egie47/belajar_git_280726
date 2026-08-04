@@ -8,6 +8,6 @@ log.txt
 
 # mengecualikan file lebih dari satu
 *.html
-
+inde.ts
 
 
