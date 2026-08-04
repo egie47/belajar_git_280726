@@ -7,7 +7,8 @@ klon projek git/
 log.txt
 
 # mengecualikan file lebih dari satu
-*.html
-inde.ts
+index.ts
 
 
+#semua file dengan extension py
+*.py
