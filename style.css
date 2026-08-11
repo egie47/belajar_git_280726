@@ -1,6 +1,13 @@
 h1 {
 
-    color:brown;
+    color:rgb(22, 63, 175);
     size: 30px;
 
+}
+
+
+body {
+
+    background-color: blueviolet;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
